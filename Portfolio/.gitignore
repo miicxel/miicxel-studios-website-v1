@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# raw/source video footage — not deployed; see public/videos for deployed clips
+/assets/videos/
