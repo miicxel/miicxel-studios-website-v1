@@ -1,0 +1,78 @@
+{
+  "single_clips": {
+    "label": "Single Clip",
+    "description": "One-off edited clip for testing quality or turning one moment into content.",
+    "price_range": { "min": 79, "max": 149 },
+    "unit": "per clip",
+    "includes": [
+      "Custom captions",
+      "Clean audio and sound effects",
+      "Basic motion graphics",
+      "Retention-focused pacing",
+      "Formatted for one platform"
+    ]
+  },
+  "monthly_packages": [
+    {
+      "id": "starter",
+      "label": "Starter",
+      "price": 499,
+      "billing": "per month",
+      "clips_per_month": 8,
+      "effective_per_clip": 62,
+      "includes": [
+        "8 clips per month",
+        "Custom captions",
+        "Clean audio and sound effects",
+        "Basic motion graphics",
+        "Retention-focused pacing",
+        "Formatted for up to 2 platforms"
+      ],
+      "best_for": "Best if you are starting a steady repurposing flow.",
+      "featured": false
+    },
+    {
+      "id": "growth",
+      "label": "Growth",
+      "price": 749,
+      "billing": "per month",
+      "clips_per_month": 15,
+      "effective_per_clip": 50,
+      "includes": [
+        "15 clips per month",
+        "Custom captions",
+        "Clean audio and sound effects",
+        "Basic to intermediate motion graphics",
+        "Retention-focused pacing",
+        "Formatted for up to 3 platforms",
+        "Monthly performance recap"
+      ],
+      "best_for": "Best if you post several times a week.",
+      "featured": true
+    },
+    {
+      "id": "pro",
+      "label": "Pro",
+      "price": 999,
+      "billing": "per month",
+      "clips_per_month": 20,
+      "effective_per_clip": 50,
+      "includes": [
+        "20 clips per month",
+        "Custom captions",
+        "Clean audio and sound effects",
+        "Basic to intermediate motion graphics",
+        "Retention-focused pacing",
+        "Formatted for all major platforms",
+        "Monthly performance recap",
+        "Priority turnaround"
+      ],
+      "best_for": "Best if you want more volume and faster scale.",
+      "featured": false
+    }
+  ],
+  "notes": {
+    "pricing_model": "Retainer-based. Rates start here and rise with demand.",
+    "custom_note": "Higher volume and custom scopes are quoted on a call."
+  }
+}

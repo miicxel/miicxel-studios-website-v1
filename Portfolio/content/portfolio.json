@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "primary": "/videos/hero-demo.mp4",
+    "alt": "/videos/hero-demo-1.mp4",
+    "note": "Two hero candidates available. Default to primary; alt can be used for an A/B version or a secondary moment later in the page (e.g. before the CTA section)."
+  },
+  "general_clips": [
+    {
+      "id": "edit-01",
+      "video": "/videos/edit-01.mp4",
+      "title": "REPLACE \u2014 short internal label",
+      "client_label": "REPLACE \u2014 e.g. 'Business Coach'",
+      "niche": "coach",
+      "hook": "REPLACE \u2014 the actual opening line/moment",
+      "description": "REPLACE \u2014 1-2 sentences on the moment and why it works",
+      "tags": [
+        "REPLACE"
+      ],
+      "featured": true
+    },
+    {
+      "id": "edit-02",
+      "video": "/videos/edit-02.mp4",
+      "title": "REPLACE",
+      "client_label": "REPLACE",
+      "niche": "consultant",
+      "hook": "REPLACE",
+      "description": "REPLACE",
+      "tags": [
+        "REPLACE"
+      ],
+      "featured": false
+    },
+    {
+      "id": "edit-03",
+      "video": "/videos/edit-03.mp4",
+      "title": "REPLACE",
+      "client_label": "REPLACE",
+      "niche": "course_creator",
+      "hook": "REPLACE",
+      "description": "REPLACE",
+      "tags": [
+        "REPLACE"
+      ],
+      "featured": false
+    }
+  ],
+  "before_after": {
+    "section_note": "Interactive drag-to-reveal comparison. Each entry has a separate before_video (raw/unedited) and after_video (final edit), same duration, same moment in time \u2014 the slider plays both in sync and reveals one side vs the other as the handle is dragged.",
+    "items": [
+      {
+        "id": "before-after-01",
+        "before_video": "/videos/compare-proxies/before-after-01-before.mp4",
+        "after_video": "/videos/compare-proxies/before-after-01-after.mp4",
+        "title": "REPLACE",
+        "description": "REPLACE"
+      },
+      {
+        "id": "before-after-02",
+        "before_video": "/videos/compare-proxies/before-after-02-before.mp4",
+        "after_video": "/videos/compare-proxies/before-after-02-after.mp4",
+        "title": "REPLACE",
+        "description": "REPLACE"
+      },
+      {
+        "id": "before-after-03",
+        "before_video": "/videos/compare-proxies/before-after-03-before.mp4",
+        "after_video": "/videos/compare-proxies/before-after-03-after.mp4",
+        "title": "REPLACE",
+        "description": "REPLACE"
+      },
+      {
+        "id": "before-after-04",
+        "before_video": "/videos/compare-proxies/before-after-04-before.mp4",
+        "after_video": "/videos/compare-proxies/before-after-04-after.mp4",
+        "title": "REPLACE",
+        "description": "REPLACE"
+      }
+    ]
+  },
+  "hook_styles": {
+    "section_note": "Demonstrates range of hook/intro approaches. Can render as its own compact showcase row rather than the main grid.",
+    "items": [
+      {
+        "id": "hook-simple-01",
+        "video": "/videos/hook-intro-styles/Hook-Style-Simple-01.mp4",
+        "style_label": "Simple"
+      },
+      {
+        "id": "hook-advanced-01",
+        "video": "/videos/hook-intro-styles/Hook-Style-Advanced-01.mp4",
+        "style_label": "Advanced"
+      },
+      {
+        "id": "hook-podcast-01",
+        "video": "/videos/hook-intro-styles/Hook-Style-Podcast-01.mp4",
+        "style_label": "Podcast"
+      }
+    ]
+  },
+  "logo": {
+    "brandmark_full": "/logos/brandmark.png",
+    "submark_icon": "/logos/submark.png",
+    "note": "Use submark_icon for the nav/favicon (compact), brandmark_full for footer or hero lockup."
+  },
+  "assets_pending": {
+    "photos": "none yet \u2014 omit any photo/headshot elements from this build pass",
+    "thumbnails": "none yet \u2014 portfolio grid should use muted autoplay-on-hover video previews instead of static thumbnail images for this version"
+  }
+}

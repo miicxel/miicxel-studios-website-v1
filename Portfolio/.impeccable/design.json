@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-03T04:26:51Z",
+  "title": "Design System: Miicxel Studios — The Page as a Reel",
+  "extensions": {
+    "colorMeta": {
+      "near-black": {
+        "role": "neutral",
+        "displayName": "Tinted Near-Black",
+        "canonical": "#0b0b0e",
+        "tonalRamp": ["oklch(15% 0.004 293)", "oklch(22% 0.005 293)", "oklch(30% 0.007 293)", "oklch(40% 0.009 293)", "oklch(50% 0.01 293)", "oklch(62% 0.011 293)", "oklch(78% 0.008 293)", "oklch(92% 0.005 293)"]
+      },
+      "video-well": {
+        "role": "neutral",
+        "displayName": "Video Well",
+        "canonical": "#0e0e12",
+        "tonalRamp": ["oklch(15% 0.005 293)", "oklch(22% 0.006 293)", "oklch(30% 0.008 293)", "oklch(40% 0.01 293)", "oklch(50% 0.011 293)", "oklch(62% 0.012 293)", "oklch(78% 0.009 293)", "oklch(92% 0.005 293)"]
+      },
+      "elevated": {
+        "role": "neutral",
+        "displayName": "Elevated Surface",
+        "canonical": "#16161b",
+        "tonalRamp": ["oklch(15% 0.007 293)", "oklch(22% 0.009 293)", "oklch(30% 0.011 293)", "oklch(40% 0.013 293)", "oklch(50% 0.014 293)", "oklch(62% 0.015 293)", "oklch(78% 0.011 293)", "oklch(92% 0.006 293)"]
+      },
+      "featured-surface": {
+        "role": "neutral",
+        "displayName": "Featured Surface",
+        "canonical": "#1a1a21",
+        "tonalRamp": ["oklch(15% 0.008 293)", "oklch(22% 0.01 293)", "oklch(30% 0.013 293)", "oklch(40% 0.015 293)", "oklch(50% 0.016 293)", "oklch(62% 0.017 293)", "oklch(78% 0.013 293)", "oklch(92% 0.007 293)"]
+      },
+      "warm-white": {
+        "role": "neutral",
+        "displayName": "Warm White",
+        "canonical": "#f2f1f5",
+        "tonalRamp": ["oklch(15% 0.006 290)", "oklch(22% 0.008 290)", "oklch(30% 0.01 290)", "oklch(40% 0.011 290)", "oklch(50% 0.012 290)", "oklch(62% 0.013 290)", "oklch(78% 0.011 290)", "oklch(94.5% 0.005 290)"]
+      },
+      "muted-lavender": {
+        "role": "neutral",
+        "displayName": "Muted Lavender",
+        "canonical": "#8e8c99",
+        "tonalRamp": ["oklch(15% 0.008 290)", "oklch(22% 0.01 290)", "oklch(30% 0.013 290)", "oklch(40% 0.015 290)", "oklch(50% 0.017 290)", "oklch(57.5% 0.018 290)", "oklch(78% 0.013 290)", "oklch(92% 0.007 290)"]
+      },
+      "dim-lavender": {
+        "role": "neutral",
+        "displayName": "Dim Lavender",
+        "canonical": "#817f95",
+        "tonalRamp": ["oklch(15% 0.008 290)", "oklch(22% 0.011 290)", "oklch(30% 0.014 290)", "oklch(40% 0.016 290)", "oklch(50% 0.019 290)", "oklch(53% 0.02 290)", "oklch(78% 0.014 290)", "oklch(92% 0.008 290)"]
+      },
+      "pale-lavender": {
+        "role": "neutral",
+        "displayName": "Pale Lavender",
+        "canonical": "#c9c7d1",
+        "tonalRamp": ["oklch(15% 0.007 290)", "oklch(22% 0.009 290)", "oklch(30% 0.011 290)", "oklch(40% 0.013 290)", "oklch(50% 0.014 290)", "oklch(62% 0.015 290)", "oklch(80% 0.012 290)", "oklch(92% 0.006 290)"]
+      },
+      "violet": {
+        "role": "primary",
+        "displayName": "Flat Violet",
+        "canonical": "#7c3aed",
+        "tonalRamp": ["oklch(18% 0.05 293)", "oklch(28% 0.09 293)", "oklch(38% 0.13 293)", "oklch(47% 0.17 293)", "oklch(54.5% 0.21 293)", "oklch(65% 0.18 293)", "oklch(78% 0.13 293)", "oklch(92% 0.06 293)"]
+      },
+      "violet-lift": {
+        "role": "primary",
+        "displayName": "Lifted Violet",
+        "canonical": "#9061f9",
+        "tonalRamp": ["oklch(18% 0.04 293)", "oklch(28% 0.07 293)", "oklch(38% 0.1 293)", "oklch(50% 0.14 293)", "oklch(63% 0.17 293)", "oklch(72% 0.14 293)", "oklch(82% 0.1 293)", "oklch(93% 0.05 293)"]
+      },
+      "hairline": {
+        "role": "neutral",
+        "displayName": "Hairline",
+        "canonical": "#232228",
+        "tonalRamp": ["oklch(15% 0.007 293)", "oklch(22% 0.008 293)", "oklch(30% 0.009 293)", "oklch(40% 0.01 293)", "oklch(50% 0.011 293)", "oklch(62% 0.012 293)", "oklch(78% 0.009 293)", "oklch(92% 0.005 293)"]
+      },
+      "alert-red": {
+        "role": "neutral",
+        "displayName": "Alert Red",
+        "canonical": "#e5484d",
+        "tonalRamp": ["oklch(18% 0.06 22)", "oklch(28% 0.1 22)", "oklch(38% 0.14 22)", "oklch(50% 0.18 22)", "oklch(62% 0.21 22)", "oklch(72% 0.16 22)", "oklch(82% 0.11 22)", "oklch(93% 0.05 22)"]
+      }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Hero offer headline only — tight, near-locked line height." },
+      "headline": { "displayName": "Headline", "purpose": "Section headings, one step down from the hero." },
+      "title": { "displayName": "Title", "purpose": "Sub-headings inside sections — process intros, pull-quotes, pricing callouts." },
+      "body": { "displayName": "Body", "purpose": "Paragraphs and prose; 14px at 1.6–1.75 for dense meta copy." },
+      "label": { "displayName": "Label", "purpose": "Mono uppercase labels — timecodes, filenames, durations, hints. Tabular numerals." }
+    },
+    "motion": [
+      { "name": "scrubber-fill", "value": "linear", "purpose": "Scroll-progress fill of the signature scrubber — it is a measurement, not a flourish." },
+      { "name": "reveal-in", "value": "cubic-bezier(0.22, 1, 0.36, 1) 0.75s", "purpose": "Scroll-triggered fade + 18px upward translate for sections and blocks." },
+      { "name": "hero-in", "value": "cubic-bezier(0.22, 1, 0.36, 1) 0.8–1.1s", "purpose": "First-viewport entrance — brandmark, headline, copy, monitor (clip-path inset reveal)." },
+      { "name": "state-hover", "value": "ease-out 200ms", "purpose": "Standard color transitions: buttons, links, headings, inputs." },
+      { "name": "chip-hover", "value": "ease-out 300ms", "purpose": "Burned play chip scales to 1.05; FAQ + rotates 45deg." },
+      { "name": "playhead", "value": "ease-out 150ms", "purpose": "Source-monitor playhead advances along the transport track." },
+      { "name": "waveform", "value": "ease-out 500ms, 12ms per-bar stagger", "purpose": "Waveform bars rise 30% → 100% on group hover." },
+      { "name": "reduced-motion", "value": "animation/transition duration 0.01ms !important", "purpose": "Global CSS kill-switch under prefers-reduced-motion; MotionConfig reducedMotion=\"user\"." }
+    ],
+    "breakpoints": [
+      { "name": "sm", "value": "640px" },
+      { "name": "md", "value": "768px" },
+      { "name": "lg", "value": "1024px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Flat violet quote CTA — appears once per viewport region (nav, hero, footer).",
+      "html": "<a class=\"ds-btn-primary\" href=\"#start\">Get a quote</a>",
+      "css": ".ds-btn-primary { display: inline-block; background: #7c3aed; color: #f2f1f5; font-family: 'Space Grotesk', sans-serif; font-size: 14px; font-weight: 600; padding: 10px 20px; border-radius: 6.4px; text-decoration: none; transition: background 200ms ease-out, color 200ms ease-out; } .ds-btn-primary:hover { background: #9061f9; } .ds-btn-primary:focus-visible { outline: 2px solid #9061f9; outline-offset: 2px; }"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Hairline-bordered elevated-surface button — the paired 'see the work' action.",
+      "html": "<a class=\"ds-btn-secondary\" href=\"#work\">See the work</a>",
+      "css": ".ds-btn-secondary { display: inline-block; background: #16161b; color: #f2f1f5; font-family: 'Space Grotesk', sans-serif; font-size: 14px; font-weight: 600; padding: 10px 20px; border: 1px solid #232228; border-radius: 6.4px; text-decoration: none; transition: border-color 200ms ease-out, color 200ms ease-out; } .ds-btn-secondary:hover { border-color: #7c3aed; color: #9061f9; } .ds-btn-secondary:focus-visible { outline: 2px solid #9061f9; outline-offset: 2px; }"
+    },
+    {
+      "name": "Timecode Chip",
+      "kind": "chip",
+      "refersTo": "chip-burned",
+      "description": "Burned-in section label — mono, uppercase, near-black glass over footage.",
+      "html": "<span class=\"ds-chip-burned\"><i class=\"ds-chip-dot\"></i>00:22</span>",
+      "css": ".ds-chip-burned { display: inline-flex; align-items: center; gap: 6px; background: rgba(11, 11, 14, 0.78); border: 1px solid #232228; border-radius: 3px; padding: 4px 8px; color: #8e8c99; font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase; font-variant-numeric: tabular-nums; } .ds-chip-dot { width: 6px; height: 6px; background: #7c3aed; }"
+    },
+    {
+      "name": "Text Input",
+      "kind": "input",
+      "refersTo": "input-field",
+      "description": "Lead-form field — near-black fill, hairline border, violet-lift focus ring.",
+      "html": "<label class=\"ds-field\"><span class=\"ds-field-label\">Name <em class=\"ds-field-req\">*</em></span><span class=\"ds-field-hint\">WHO YOU ARE</span><input class=\"ds-input\" type=\"text\" placeholder=\"Your name\" /></label>",
+      "css": ".ds-field { display: grid; grid-template-columns: 1fr auto; gap: 8px; margin-bottom: 8px; } .ds-field-label { color: #f2f1f5; font-family: 'Space Grotesk', sans-serif; font-size: 13px; font-weight: 500; } .ds-field-req { color: #9061f9; font-style: normal; margin-left: 4px; } .ds-field-hint { font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.22em; text-transform: uppercase; color: #817f95; } .ds-input { width: 100%; height: 44px; padding: 0 14px; background: #0b0b0e; border: 1px solid #232228; border-radius: 6.4px; color: #f2f1f5; font-family: 'Space Grotesk', sans-serif; font-size: 14px; transition: border-color 200ms ease-out; } .ds-input::placeholder { color: #817f95; } .ds-input:focus { outline: none; border-color: transparent; box-shadow: 0 0 0 2px #9061f9; } .ds-input[aria-invalid='true'] { box-shadow: 0 0 0 2px #e5484d; }"
+    },
+    {
+      "name": "Navigation Bar",
+      "kind": "nav",
+      "refersTo": "nav-bar",
+      "description": "Fixed elevated bar under the 3px scrubber — mono wordmark, muted links, transport timecode.",
+      "html": "<nav class=\"ds-nav\"><span class=\"ds-nav-brand\">MIIXCEL <em>STUDIOS</em></span><span class=\"ds-nav-links\"><a href=\"#work\">Work</a><a href=\"#pricing\">Pricing</a></span><span class=\"ds-nav-tc\">00:12 / 01:54</span></nav>",
+      "css": ".ds-nav { display: flex; align-items: center; justify-content: space-between; gap: 20px; height: 56px; padding: 0 24px; background: #16161b; border-bottom: 1px solid #232228; } .ds-nav-brand { font-family: 'IBM Plex Mono', monospace; font-size: 12px; font-weight: 500; letter-spacing: 0.22em; text-transform: uppercase; color: #f2f1f5; } .ds-nav-brand em { font-style: normal; color: #8e8c99; } .ds-nav-links { display: flex; gap: 24px; } .ds-nav-links a { color: #8e8c99; font-family: 'Space Grotesk', sans-serif; font-size: 13px; font-weight: 500; text-decoration: none; transition: color 200ms ease-out; } .ds-nav-links a:hover { color: #f2f1f5; } .ds-nav-links a:focus-visible { color: #f2f1f5; outline: 2px solid #9061f9; outline-offset: 4px; } .ds-nav-tc { font-family: 'IBM Plex Mono', monospace; font-size: 11px; letter-spacing: 0.18em; font-variant-numeric: tabular-nums; color: #8e8c99; } .ds-nav-tc em { color: #9061f9; font-style: normal; }"
+    },
+    {
+      "name": "Source Monitor",
+      "kind": "custom",
+      "refersTo": "video-monitor",
+      "description": "NLE source monitor — mono header strip, 9:16 video well, transport with live playhead and timecode.",
+      "html": "<div class=\"ds-monitor\"><div class=\"ds-monitor-head\"><span class=\"ds-monitor-file\">hero-demo.mp4</span><span class=\"ds-monitor-dur\"><i class=\"ds-monitor-rec\"></i>00:08</span></div><div class=\"ds-monitor-stage\"></div><div class=\"ds-monitor-transport\"><div class=\"ds-monitor-track\"><span class=\"ds-monitor-playhead\" style=\"left:38%\"></span></div><span class=\"ds-monitor-tc\">00:03 / 00:08</span></div></div>",
+      "css": ".ds-monitor { border: 1px solid #232228; background: #0e0e12; overflow: hidden; } .ds-monitor-head { display: flex; justify-content: space-between; align-items: center; padding: 6px 12px; background: #16161b; border-bottom: 1px solid #232228; font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.22em; text-transform: uppercase; font-variant-numeric: tabular-nums; } .ds-monitor-file { color: #8e8c99; } .ds-monitor-dur { color: #817f95; display: flex; align-items: center; gap: 6px; } .ds-monitor-rec { width: 6px; height: 6px; border-radius: 999px; background: #7c3aed; } .ds-monitor-stage { aspect-ratio: 9 / 16; max-height: 68vh; background: #0e0e12; } .ds-monitor-transport { display: flex; align-items: center; gap: 12px; padding: 8px 12px; background: #16161b; border-top: 1px solid #232228; } .ds-monitor-track { position: relative; flex: 1; height: 1px; background: #232228; } .ds-monitor-playhead { position: absolute; top: 50%; width: 2px; height: 9px; background: #7c3aed; transform: translateY(-50%); transition: left 150ms ease-out; } .ds-monitor-tc { font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.22em; text-transform: uppercase; font-variant-numeric: tabular-nums; color: #817f95; }"
+    },
+    {
+      "name": "Compare Slider",
+      "kind": "custom",
+      "refersTo": "video-monitor",
+      "description": "Paired 9:16 proof control — before clipped left of a draggable flat-violet divider, after beneath, with pinned burned labels and accessible slider semantics.",
+      "html": "<div class=\"ds-compare\" role=\"slider\" tabindex=\"0\" aria-label=\"Drag to compare before and after\" aria-valuemin=\"0\" aria-valuemax=\"100\" aria-valuenow=\"50\" aria-valuetext=\"50% before, 50% after\"><div class=\"ds-compare-layer ds-compare-after\"><span>AFTER FOOTAGE</span></div><div class=\"ds-compare-layer ds-compare-before\"><span>BEFORE FOOTAGE</span></div><span class=\"ds-compare-chip ds-compare-chip-before\">BEFORE</span><span class=\"ds-compare-chip ds-compare-chip-after\">AFTER</span><div class=\"ds-compare-divider\" aria-hidden=\"true\"><span class=\"ds-compare-grabber\"><svg width=\"5\" height=\"9\" viewBox=\"0 0 5 9\" fill=\"none\"><path d=\"M4.5 1 1.5 4.5 4.5 8\" stroke=\"#7c3aed\" stroke-width=\"1.2\" stroke-linecap=\"round\"/></svg><svg width=\"5\" height=\"9\" viewBox=\"0 0 5 9\" fill=\"none\"><path d=\"M.5 1l3 3.5L.5 8\" stroke=\"#7c3aed\" stroke-width=\"1.2\" stroke-linecap=\"round\"/></svg></span></div></div>",
+      "css": ".ds-compare { position: relative; width: min(100%, 340px); aspect-ratio: 9 / 16; overflow: hidden; border: 1px solid #232228; background: #0e0e12; cursor: col-resize; outline: none; user-select: none; } .ds-compare:focus-visible { box-shadow: 0 0 0 2px #9061f9; } .ds-compare-layer { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; color: #817f95; font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.18em; text-transform: uppercase; } .ds-compare-after { background: #16161b; } .ds-compare-before { right: 50%; background: #0e0e12; border-right: 1px solid #232228; overflow: hidden; } .ds-compare-before span { position: absolute; left: 50%; width: 340px; text-align: center; transform: translateX(-25%); } .ds-compare-chip { position: absolute; top: 8px; z-index: 2; padding: 2px 6px; border: 1px solid #232228; border-radius: 2px; background: rgba(11, 11, 14, 0.78); color: #8e8c99; font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.22em; text-transform: uppercase; } .ds-compare-chip-before { left: 8px; } .ds-compare-chip-after { right: 8px; } .ds-compare-divider { position: absolute; inset-block: 0; left: 50%; z-index: 3; width: 3px; background: #7c3aed; transform: translateX(-50%); } .ds-compare-grabber { position: absolute; top: 50%; left: 50%; display: flex; align-items: center; gap: 2px; padding: 1px 3px; border: 1px solid #232228; border-radius: 2px; background: #16161b; transform: translate(-50%, -50%); }"
+    },
+    {
+      "name": "Video Preview + Waveform",
+      "kind": "custom",
+      "refersTo": "video-monitor",
+      "description": "Portfolio thumbnail substitute — 9:16 muted loop that plays on hover, with a waveform strip that rises on group hover.",
+      "html": "<div class=\"ds-preview-group\"><div class=\"ds-preview\"><span class=\"ds-preview-tc\">LOADING CLIP</span></div><div class=\"ds-waveform\"><span style=\"height:45%\"></span><span style=\"height:80%\"></span><span style=\"height:30%\"></span><span style=\"height:95%\"></span><span style=\"height:60%\"></span></div></div>",
+      "css": ".ds-preview-group { font-family: 'IBM Plex Mono', monospace; } .ds-preview { position: relative; aspect-ratio: 9 / 16; background: #0e0e12; border: 1px solid #232228; display: flex; align-items: center; justify-content: center; } .ds-preview-tc { color: #817f95; font-size: 10px; letter-spacing: 0.22em; text-transform: uppercase; } .ds-waveform { display: flex; align-items: flex-end; justify-content: space-between; gap: 2px; height: 24px; margin-top: 12px; } .ds-waveform span { width: 2px; background: #4a4961; transform-origin: bottom; transform: scaleY(0.3); transition: transform 500ms ease-out, background 500ms ease-out; } .ds-preview-group:hover .ds-waveform span { transform: scaleY(1); background: #7c3aed; }"
+    },
+    {
+      "name": "FAQ Row",
+      "kind": "custom",
+      "refersTo": "chip-burned",
+      "description": "Hairline-separated accordion row — mono Q-number, text '+', violet-on-hover question.",
+      "html": "<button class=\"ds-faq\" aria-expanded=\"false\"><span class=\"ds-faq-q\">Q01</span><span class=\"ds-faq-text\">How fast is the turnaround?</span><span class=\"ds-faq-plus\">+</span></button>",
+      "css": ".ds-faq { display: flex; width: 100%; align-items: baseline; gap: 16px; padding: 20px 0; background: none; border: none; border-bottom: 1px solid #232228; text-align: left; cursor: pointer; } .ds-faq-q { font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.18em; color: #817f95; font-variant-numeric: tabular-nums; } .ds-faq-text { flex: 1; color: #f2f1f5; font-family: 'Space Grotesk', sans-serif; font-size: 15px; font-weight: 500; line-height: 1.375; transition: color 200ms ease-out; } .ds-faq:hover .ds-faq-text { color: #9061f9; } .ds-faq-plus { font-family: 'IBM Plex Mono', monospace; font-size: 15px; color: #7c3aed; transition: transform 300ms ease-out; } .ds-faq[aria-expanded='true'] .ds-faq-plus { transform: rotate(45deg); } .ds-faq:focus-visible { outline: 2px solid #9061f9; outline-offset: 2px; }"
+    },
+    {
+      "name": "Featured Pricing Tier",
+      "kind": "custom",
+      "refersTo": "panel-featured",
+      "description": "The single raised surface — 2px violet top rule, FEATURED chip, violet CTA.",
+      "html": "<div class=\"ds-tier\"><span class=\"ds-tier-rule\"></span><span class=\"ds-tier-tag\"><i></i>FEATURED</span><p class=\"ds-tier-name\">GROWTH TIER</p><p class=\"ds-tier-price\">$749<span>/ MO</span></p><a class=\"ds-btn-primary\" href=\"#start\">Start with Growth</a></div>",
+      "css": ".ds-tier { position: relative; background: #1a1a21; border: 1px solid #232228; border-radius: 8px; padding: 28px; display: flex; flex-direction: column; gap: 12px; } .ds-tier-rule { position: absolute; inset: 0 0 auto 0; height: 2px; background: #7c3aed; } .ds-tier-tag { align-self: flex-start; display: inline-flex; align-items: center; gap: 6px; padding: 4px 8px; border: 1px solid rgba(124, 58, 237, 0.4); border-radius: 2px; background: rgba(124, 58, 237, 0.1); color: #9061f9; font-family: 'IBM Plex Mono', monospace; font-size: 9px; letter-spacing: 0.22em; text-transform: uppercase; } .ds-tier-tag i { width: 5px; height: 5px; background: #7c3aed; } .ds-tier-name { font-family: 'IBM Plex Mono', monospace; font-size: 10px; letter-spacing: 0.22em; text-transform: uppercase; color: #8e8c99; } .ds-tier-price { font-family: 'Space Grotesk', sans-serif; font-size: 41.6px; font-weight: 600; letter-spacing: -0.03em; line-height: 1; color: #f2f1f5; } .ds-tier-price span { font-family: 'IBM Plex Mono', monospace; font-size: 11px; font-weight: 400; letter-spacing: normal; color: #8e8c99; margin-left: 6px; } .ds-btn-primary { display: inline-block; margin-top: 12px; text-align: center; background: #7c3aed; color: #f2f1f5; font-family: 'Space Grotesk', sans-serif; font-size: 13.5px; font-weight: 600; padding: 10px 16px; border-radius: 6.4px; text-decoration: none; transition: background 200ms ease-out; } .ds-btn-primary:hover { background: #9061f9; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Page as a Reel",
+    "overview": "The site is built to be an NLE timeline, not to look like one. A fixed scroll-progress scrubber runs across the very top of the viewport, styled as a timeline scrub bar: a hairline track, a violet fill that advances linearly with scroll position, and a lighter-violet playhead. Scroll position is literally a timecode — the page maps itself to a 114-second reel, and the nav's transport readout ticks 00:00 / 01:54 as you move through it. Sections are labeled with burned-in timecode chips (00:07, 00:22, 01:41), process steps advance by timecode, and footage behaves like footage in an editor: portfolio clips play on hover and scrub back to frame zero on leave, while paired before/after clips run together behind a draggable reveal. Filenames, durations, and state labels read out in mono.\n\nThe personality is a single craftsperson's shop, not an agency: quiet, premium, operational. Density is balanced — enough whitespace to feel expensive, tight enough that the work stays the point. The page carries exactly one accent color, used on functional elements only, and separates everything with 1px hairlines rather than nested boxes. Drama comes from one specific, functional element — the scrubber and the source monitor — never from ambient glow. There are no stock photos, no testimonial carousels, no gradient washes, no icon tiles above headings, and no springs: every motion is a controlled ease-out or linear fill, and the whole system honors prefers-reduced-motion down to a global CSS kill-switch.",
+    "keyCharacteristics": [
+      "The page is a timeline: scrubber playhead, timecode section labels, transport readout, source-monitor previews, and a synchronized comparison reveal.",
+      "Dark-only, tinted near-black; a single flat violet accent used sparingly and functionally.",
+      "Hairline #232228 separators; flat elevated panels; zero shadows; zero nested cards.",
+      "Space Grotesk display/body + IBM Plex Mono doing real measurement work (timecodes, filenames, durations, labels).",
+      "Controlled motion only — linear scrubber fill, short ease-out strokes, no overshoot; prefers-reduced-motion respected."
+    ],
+    "rules": [
+      { "name": "The Flat Violet Rule", "body": "The accent is one flat violet, and it is earned: scrubber fill, playhead, CTAs, record dots, active states, links. Never as a gradient, never as an ambient glow, never filling a surface.", "section": "colors" },
+      { "name": "The Readability Floor Rule", "body": "No text falls below 3:1 contrast against the near-black background — #817f95 is the dimmest text allowed. Foreground is #f2f1f5, never pure white; dark values are tinted, never pure black.", "section": "colors" },
+      { "name": "The Measurement Rule", "body": "IBM Plex Mono renders measurement and metadata only — timecodes, filenames, durations, uppercase labels, numerals — always with tabular numerals. If mono text isn't measuring something, it doesn't belong.", "section": "typography" },
+      { "name": "The Two-Face Rule", "body": "Exactly two typefaces: Space Grotesk and IBM Plex Mono. Never Inter, never a third face, never a system fallback as a primary.", "section": "typography" },
+      { "name": "The Timeline Rule", "body": "The page is a reel. Scroll progress is a playhead, sections are timecoded clips, and labels read as footage metadata. Label sections and true sequences with timecodes, never 01 / 02 / 03; zero-padded mono numerals are reserved for literal enumerated lists (FAQ Q01, add-on rows, problem items).", "section": "layout" },
+      { "name": "The Hairline Rule", "body": "Separate with hairlines, spacing, and flat tonal steps — never with shadows and never with cards nested inside cards. One flat elevated background (#16161b) with a hairline border replaces the shadowed card everywhere.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do label sections and sequences with burned timecode chips (00:07, 00:22, 01:41) — never 01 / 02 / 03 section markers.",
+      "Do use the accent only where it functions: scrubber fill, playheads, CTAs, record dots, active states, links, list markers.",
+      "Do separate content with 1px #232228 hairlines and flat tonal steps (#0b0b0e → #0e0e12 → #16161b → #1a1a21) instead of shadows or nested cards.",
+      "Do keep all video surfaces 9:16, let general portfolio previews take their grid column's full width without a competing height cap, and set all measurement in IBM Plex Mono with tabular numerals.",
+      "Do use violet square markers (5–7px) for bullets and status; a 6px round violet dot is the only circle.",
+      "Do respect prefers-reduced-motion: scrubber seeking stays functional but jumps; reveals and transitions collapse to near-instant.",
+      "Do give every interactive element a visible 2px #9061f9 focus ring."
+    ],
+    "donts": [
+      "Don't use gradients, ambient glows, or blurred color blobs anywhere.",
+      "Don't use pure black (#000) backgrounds or pure white (#fff) text — every value is tinted; #817f95 is the dimmest text allowed.",
+      "Don't nest cards inside cards, or reach for shadows where a hairline and a flat elevated surface will do.",
+      "Don't use spring, bounce, elastic, or overshoot easing — controlled ease-out or linear only.",
+      "Don't set text in Inter or add a third typeface.",
+      "Don't put rounded icon tiles above headings; the system's only \"icons\" are the text \"+\", the CSS play triangle, and the violet dots.",
+      "Don't use stock photos, avatars, or placeholder imagery — real footage previews are the visual content."
+    ]
+  }
+}
